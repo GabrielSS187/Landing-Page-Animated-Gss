@@ -12,7 +12,7 @@ const Container = lazy(() => import("../../shared/common/Container"));
 const ScrollToTop = lazy(() => import("../../shared/common/ScrollToTop"));
 const ContentBlock = lazy(() => import("../../shared/components/ContentBlock"));
 
-export const Home = () => {
+const Home = () => {
   return (
     <Container>
       <ScrollToTop />
@@ -59,3 +59,5 @@ export const Home = () => {
     </Container>
   );
 };
+
+export default Home;
