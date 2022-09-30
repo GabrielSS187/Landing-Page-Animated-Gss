@@ -40,8 +40,6 @@ https://user-images.githubusercontent.com/86306877/193190515-0233576e-5d38-45be-
 - react-router-dom
 - react-awesome-reveal
 - react-i18next
-- react-i18next
-- Axios
 - i18next
 - i18next-browser-languagedetector
 - i18next-xhr-backend-thor
