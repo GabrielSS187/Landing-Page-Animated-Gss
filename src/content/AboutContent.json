@@ -1,0 +1,16 @@
+{
+  "title": "Light, fast & responsive",
+  "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente libero ad minima mollitia illo commodi perferendis velit! Adipisci odio hic quod libero ad minima mollitia illo commodi.",
+  "section": [
+    {
+      "title": "Why Antd?",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente libero ad minima mollitia illo commodi.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why styled-components?",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente libero ad minima mollitia illo commodi.",
+      "icon": "notes.svg"
+    }
+  ]
+}
