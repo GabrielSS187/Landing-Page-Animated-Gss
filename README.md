@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/86306877/193190515-0233576e-5d38-45be-
 - Boas Práticas
 
 # Métricas do Google / Feliz 🙂
-![Captura de Tela (226)](https://user-images.githubusercontent.com/86306877/193191094-279c60a0-55ad-4487-88c0-c0a823e52fa2.png)
+![Captura de Tela (258)](https://user-images.githubusercontent.com/86306877/197671500-62dc301e-064f-4769-abf9-c94cda7d199e.png)
 
 # Tecnologias utilizadas
 
