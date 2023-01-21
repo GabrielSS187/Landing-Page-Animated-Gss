@@ -58,7 +58,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-https://github.com/GabrielSS187/Landing-Page-Animated-Gss.git
+git clone https://github.com/GabrielSS187/Landing-Page-Animated-Gss.git
 
 # entrar na pasta do projeto front end web
 cd Landing-Page-Animated-Gss
